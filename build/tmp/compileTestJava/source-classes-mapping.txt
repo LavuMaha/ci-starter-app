@@ -1,0 +1,2 @@
+com/example/cistarterapp/CiStarterAppApplicationTests.java
+ com.example.cistarterapp.CiStarterAppApplicationTests
